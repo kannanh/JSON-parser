@@ -1,0 +1,12 @@
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\bin\Debug\DataRetriever.exe.config
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\bin\Debug\DataRetriever.exe
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\bin\Debug\DataRetriever.pdb
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.Form1.resources
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.Properties.Resources.resources
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.csproj.GenerateResource.Cache
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.exe
+C:\Users\Kannan\documents\visual studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.pdb
+C:\Users\Kannan\Documents\Visual Studio 2013\Projects\TopsyData\DataRetriever\obj\Debug\DataRetriever.csprojResolveAssemblyReference.cache
+D:\backup\Topsy_backup\Nov 5 code\TopsyData\DataRetriever\bin\Debug\DataRetriever.exe.config
+D:\backup\Topsy_backup\Nov 5 code\TopsyData\DataRetriever\obj\Debug\DataRetriever.exe
+D:\backup\Topsy_backup\Nov 5 code\TopsyData\DataRetriever\obj\Debug\DataRetriever.pdb
